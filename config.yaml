@@ -2,6 +2,7 @@
 global_debug: true
 accesslog_enabled: true
 postgres_connect: postgres://postgres:microgate@localhost:5432/todo
+project_id: philemonworks
 
 xconnect:
   meta:
